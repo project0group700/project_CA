@@ -191,7 +191,7 @@ int main() {
 
     // Reset Memory as a safety measure before starting
     for(int i = 0; i < MEMORY_SIZE; i++) {
-        MEMORY[i] = 0;
+       MEMORY[i] = 0;
     }
 
     // Launch the Simulator
@@ -199,7 +199,4 @@ int main() {
 
     return 0;
 }
-/*
- * For more information, see
- * https://code.visualstudio.com/docs/editor/debugging
- */
+hi
